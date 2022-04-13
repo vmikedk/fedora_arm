@@ -69,5 +69,6 @@
     name: 
       - io.gitlab.librewolf-community
       - com.bitwarden.desktop
+      - uk.co.ibboard.cawbird
     state: present
 
