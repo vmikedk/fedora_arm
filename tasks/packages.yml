@@ -70,6 +70,5 @@
       - io.gitlab.librewolf-community
       - com.bitwarden.desktop
       - uk.co.ibboard.cawbird
-      - com.slack.Slack
     state: present
 
