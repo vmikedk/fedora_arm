@@ -67,7 +67,6 @@
 - name: Install Applications with Flatpack.
   community.general.flatpak:
     name: 
-      - com.slack.Slack
       - org.signal.Signal
       - uk.co.ibboard.cawbird
       - io.gitlab.librewolf-community
