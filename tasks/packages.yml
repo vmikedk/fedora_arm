@@ -70,7 +70,6 @@
       - io.gitlab.librewolf-community
       - com.bitwarden.desktop
       - uk.co.ibboard.cawbird
-      - https://downloads.1password.com/linux/flatpak/1Password.flatpakref
       - com.slack.Slack
     state: present
 
