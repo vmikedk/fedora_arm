@@ -59,7 +59,6 @@
 -  name: Install Microsoft Applications.
    package:
      name:
-       - microsoft-edge-stable
        - code
 
 -  name: Add Flatpak Repo
