@@ -68,7 +68,6 @@
   community.general.flatpak:
     name: 
       - io.gitlab.librewolf-community
-      - us.zoom.Zoom
       - com.bitwarden.desktop
     state: present
 
